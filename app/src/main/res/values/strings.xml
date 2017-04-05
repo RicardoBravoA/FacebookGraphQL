@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FacebookGraphQL</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1866797060268305</string>
+    <string name="show">Mostrar</string>
+    <string name="perm_id">ID</string>
+    <string name="perm_name">Name</string>
+    <string name="perm_last_name">LastName</string>
+    <string name="perm_email">Email</string>
+    <string name="perm_gender">Gender</string>
+    <string name="perm_first_name">FirstName</string>
+    <string name="perm_cover">Cover</string>
+
+</resources>
